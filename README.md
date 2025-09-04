@@ -1,9 +1,9 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Bodhi</h1>
-<h3 align="center">🚀 Builder | Strategist | AI & Game Developer in the Making</h3>
+<h3 align="center">🚀 Builder | AI & Game Developer in the Making</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=1E90FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+worlds+%F0%9F%A7%AA;Future+Game%2C+Weapons+%26+Space+Innovator+%F0%9F%9A%80;Always+learning%2C+always+executing+%E2%9A%94%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=1E90FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+worlds+%F0%9F%A7%AA;Always+learning%2C+always+executing+%E2%9A%94%EF%B8%8F" />
 </p>
 
 ---
