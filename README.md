@@ -9,10 +9,10 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎮 Currently working on **AI-powered racing game** (launching in ~1 year).  
-- 📊 Preparing **Data Analysis projects** using **Pandas + NumPy**.  
-- 🚀 Long-term mission: **AI, Weapons & Space domination.**  
-- 🧠 Always sharpening **The Warrior, The Strategist, The Builder, The Philosopher, The Ghost** within me.  
+
+- 🎓 B.Tech Computer Science student, building a strong foundation in **AI, Machine Learning, and Game Development**.  
+- 🎮 Leveling up in **Unity & C#** while combining **Data Science & Neural Networks** to design **adaptive AI systems for games**.   
+- ⚡ Belief: *“Technology is the most powerful weapon — and I intend to master it.”*  
 
 ---
 
