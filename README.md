@@ -12,7 +12,12 @@
 
 - 🎓 B.Tech Computer Science student, building a strong foundation in **AI, Machine Learning, and Game Development**.  
 - 🎮 Leveling up in **Unity & C#** while combining **Data Science & Neural Networks** to design **adaptive AI systems for games**.   
-- ⚡ Belief: *“Technology is the most powerful weapon — and I intend to master it.”*  
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%22Technology%20is%20the%20most%20powerful%20weapon%20—%20and%20I%20intend%20to%20master%20it.%22-blueviolet?style=for-the-badge" />
+</p>
 
 ---
 
