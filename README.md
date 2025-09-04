@@ -42,7 +42,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tiwaribodhi&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tiwaribodhi&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tiwaribodhi&theme=radical" alt="streak" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiwaribodhi&layout=compact&theme=radical" alt="langs" />
 </p>
 
