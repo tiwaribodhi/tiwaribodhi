@@ -33,9 +33,25 @@
 
 ---
 
-## 📂 Projects (More Coming Soon)
-- 🔬 **Data Analysis with Pandas & NumPy** → *(Repo link coming soon)*  
-- 🎮 **AI-Powered Racing Game** → *(Currently in development, future showcase project)*  
+## 📚 Currently Learning
+- 🚀 TensorFlow (Deep Learning & Neural Networks)  
+- 🎮 Unity (Game Development & C#)  
+- 📊 Advanced Data Science workflows  
+
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tiwaribodhi&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiwaribodhi&theme=radical" alt="activity graph" />
+</p>
 
 ---
 
