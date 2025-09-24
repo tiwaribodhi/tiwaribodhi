@@ -60,6 +60,13 @@
 
 ---
 
+## 🚀 Featured Projects
+- [🏎️ Racing Data Analysis](https://github.com/tiwaribodhi/racing-data-analysis) – Data insights using Pandas + NumPy.  
+- [🏦 Bank Management System](https://github.com/tiwaribodhi/bank-management) – CLI-based C++ banking project.  
+- [🛒 E-commerce System](https://github.com/tiwaribodhi/ecommerce-system) – Python OOP e-commerce logic.  
+
+---
+
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tiwaribodhi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
