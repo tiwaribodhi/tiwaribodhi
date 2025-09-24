@@ -70,7 +70,7 @@
 
 ## 🚀 Featured Projects
 - [🏎️ Racing Data Analysis](https://github.com/tiwaribodhi/racing-data-analysis) – Data insights using Pandas + NumPy.  
-- [🏦 Bank Management System](https://github.com/tiwaribodhi/bank-management) – CLI-based C++ banking project.  
+- [⚽ Data Analysis Matplotlib](https://github.com/tiwaribodhi/Data-analysis-of-Liverpool-Match-with-matplotlib) – Data-analysis of Liverpool Match with help of matplotlib.  
 - [🛒 E-commerce System](https://github.com/tiwaribodhi/ecommerce-system) – Python OOP e-commerce logic.  
 
 ---
