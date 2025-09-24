@@ -8,6 +8,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
 ## 🧑‍💻 About Me
 💡 B.Tech Computer Science student passionate about **AI, Machine Learning, and Game Development**.  
 🎮 Currently leveling up in **Unity & C#**, blending **Data Science** with **Neural Networks** to build adaptive AI for games.  
