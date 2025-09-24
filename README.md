@@ -20,13 +20,36 @@
 ---
 
 ## ⚡ Tech Stack
+
+### 👨‍💻 Programming & Web
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,git,github,tensorflow,unity" /><br/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js" />
 </p>
+
+### 📊 Data Science & Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### 🤖 AI / Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+### 🎮 Game Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity" />
+  <img src="https://skillicons.dev/icons?i=cs" />
+</p>
+
+### 🛠 Tools & Version Control
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
 
 ---
 
