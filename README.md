@@ -19,6 +19,8 @@
 🎮 Currently leveling up in **Unity & C#**, blending **Data Science** with **Neural Networks** to build adaptive AI for games.  
 🌌 Big dreamer: expanding beyond games into **Defense & Space technologies**.  
 
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Technology_is_the_most_powerful_weapon-8A2BE2?style=for-the-badge&logoColor=white" />
 </p>
